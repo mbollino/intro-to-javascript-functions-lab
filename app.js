@@ -261,7 +261,7 @@ Complete the exercise in the space below:
 */
 
 const numArgs = () => {
-    return arguments.length
+    return numArgs.length
 }
 
 
